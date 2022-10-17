@@ -12,22 +12,21 @@
 ## Capturas
 
 <p align="center">
-  <img src="src/img/final/Desktop.png" width="900">
+  <img src="src/img/final/Desktop1.png" width="900">
 </p>
 <p align="center">
-  <img src="src/img/final/Mobile.png" width="300">
+  <img src="src/img/final/Desktop2.png" width="900">
 </p>
-
 ## Links
 
-- [Sitio Online](https://rococo-gumption-4f5610.netlify.app/)
+- [Sitio Online](https://bespoke-souffle-4c06af.netlify.app/)
 
 ## Construido con
 
 - Vite
 - React
-- Styled Components
-- API de CryptoCompare
+- Tailwind CSS
+- Context API
 - SpinKit | Simple CSS Spinners
 
 ## Autor
